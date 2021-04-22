@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaelIran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jaelIran or maybe not
+- 👀 I’m interested in ... traxxas yea!!!
+- 🌱 I’m currently learning ... AWS
+- 💞️ I’m looking to collaborate on ... NA
+- 📫 How to reach me ... By Facebook
 
 <!---
 jaelIran/jaelIran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
